@@ -1,0 +1,2 @@
+(this["webpackJsonpanchor-link-diagnostics"]=this["webpackJsonpanchor-link-diagnostics"]||[]).push([[45],{700:function(i,s,t){"use strict";function n(i){i.languages.git={comment:/^#.*/m,deleted:/^[-\u2013].*/m,inserted:/^\+.*/m,string:/("|')(?:\\.|(?!\1)[^\\\r\n])*\1/m,command:{pattern:/^.*\$ git .*$/m,inside:{parameter:/\s--?\w+/m}},coord:/^@@.*@@$/m,commit_sha1:/^commit \w{40}$/m}}i.exports=n,n.displayName="git",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_git.1a65cbae.chunk.js.map
