@@ -1,0 +1,2 @@
+(this["webpackJsonpanchor-link-diagnostics"]=this["webpackJsonpanchor-link-diagnostics"]||[]).push([[55],{828:function(a,s,i){"use strict";function n(a){a.languages.hsts={directive:{pattern:/\b(?:max-age=|includeSubDomains|preload)/,alias:"keyword"},safe:{pattern:/\d{8,}/,alias:"selector"},unsafe:{pattern:/\d{1,7}/,alias:"function"}}}a.exports=n,n.displayName="hsts",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_hsts.7726a593.chunk.js.map

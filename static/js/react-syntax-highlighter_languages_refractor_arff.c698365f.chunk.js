@@ -1,2 +1,0 @@
-(this["webpackJsonpanchor-link-diagnostics"]=this["webpackJsonpanchor-link-diagnostics"]||[]).push([[8],{668:function(n,a,t){"use strict";function i(n){n.languages.arff={comment:/%.*/,string:{pattern:/(["'])(?:\\.|(?!\1)[^\\\r\n])*\1/,greedy:!0},keyword:/@(?:attribute|data|end|relation)\b/i,number:/\b\d+(?:\.\d+)?\b/,punctuation:/[{},]/}}n.exports=i,i.displayName="arff",i.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_arff.c698365f.chunk.js.map
